@@ -1,4 +1,4 @@
-mod text_scanner;
+pub mod text_scanner;
 
 use text_scanner::scan;
 
